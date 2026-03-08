@@ -15,7 +15,7 @@ The project provides a tool for compressing and decompressing text data, with co
 
 ## Description
 
-Upon execution, the program provides a menu with 4 options:
+Upon execution, the program provides menu with 4 options:
 
   1. Compress: File (.txt) → Binary (.bin)
   2. Decompress: Binary (.bin) → File (.txt)
@@ -53,4 +53,4 @@ To use this repository, follow these steps:
 
 ## License
 
-This repository is licensed under the MIT License. Feel free to use the code and notebook for your educational and personal projects.
+This repository is licensed under the MIT License. Feel free to use the code for your educational and personal projects.
