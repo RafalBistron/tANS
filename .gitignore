@@ -1,0 +1,22 @@
+# Distribution / packaging
+build/
+cmake-build-debug/
+develop-eggs/
+dist/
+downloads/
+
+# Logs and data
+results/
+data/
+
+# CLion
+.idea/
+
+# models and data
+*.json
+*.bin
+*.csv
+*.xml
+*.iml
+*.txt
+!CMakeLists.txt
